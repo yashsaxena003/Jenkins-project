@@ -5,7 +5,7 @@ class Main {
         System.out.println("Hello from java project");
         System.out.println(new Date());
         System.out.println("Welcome again");
-        System.out.println("Added new line")
+        System.out.println("Added new line");
     }
 
 }
